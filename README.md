@@ -14,4 +14,4 @@ This repository is used to help me in my Full Stack pursuit.
 4. start the server
   $ ./manage.py runserver
   
-Project started with $ ./manage.py startapp Mattwitter
+Project started with $ ./manage.py startapp mattwitter
