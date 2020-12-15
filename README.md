@@ -1,5 +1,9 @@
 # Mattwitter
-This repository is used to help me in my Full Stack pursuit.
+This repository is used as an aid to my learning and understanding of:\
+Django\
+React\
+Docker\
+maybe more we'll see.
 
 ## Django Info
 1. install Django
