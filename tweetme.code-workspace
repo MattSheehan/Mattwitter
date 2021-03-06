@@ -6,6 +6,6 @@
 	],
 	"settings": {
 		"git.ignoreLimitWarning": true,
-		"python.pythonPath": "~/.local/share/virtualenvs/DumbTwitter-Sz4K2Oqv/bin/activate"
+		"python.pythonPath": "/Users/mattsheehan/.local/share/virtualenvs/DumbTwitter-Sz4K2Oqv"
 	}
 }

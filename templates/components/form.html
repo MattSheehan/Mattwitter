@@ -1,0 +1,11 @@
+<form method='POST'> {% csrf_token %}
+    {{ form.as_p }}
+    <fieldset disabled>
+        <div class="form-group">
+            <label for="create-tweet-image">Disabled</label>
+            <input type="file" class="form-control-file" id="create-tweet-image">
+          </div>
+    </fieldset>
+    <button type='submit' class='btn btn-secondary'>SAVE</button>
+
+</form>

@@ -10,9 +10,10 @@
 
    - Creating
      1. Text
-     2. Image
+     2. Image -> media storage server
    - commenting
    - deleting
+   - Liking
 
 3. Following/Followers
    - Notifications
